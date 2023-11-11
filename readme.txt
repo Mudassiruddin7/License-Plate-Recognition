@@ -1,0 +1,2 @@
+This project helps you identify/detect number plate of the vehicle in the image. We use harcascade files available in opencv to achieve this.
+Next we read the numbers inside the bounding box using OCR and extract the number plate numbers.
