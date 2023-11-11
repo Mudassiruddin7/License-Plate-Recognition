@@ -12,6 +12,7 @@ Getting the number plate of a vehicle is a very important task and can be used i
 Pytesseract is a tool for Optical Character Recognition (OCR) in python i.e. it helps us read the text in an image. It assumes image to be in RGB format and hence we need to pass images in RGB (red, green, blue) format for good results.
 
 ![Pytesseract](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS85lcupEE7xXbg-rE5GilNzuFsmzwGpx1iaw&usqp=CAU)
+
 **Reference**
 
 + https://pypi.org/project/pytesseract/
