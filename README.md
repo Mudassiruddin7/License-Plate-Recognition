@@ -91,7 +91,8 @@ Now you are ready to use jupyter on this environment and start with your project
 4.	Make sure you are in the correct path in your terminal, where you have saved your executable file/folder. E.g.: cd A:\project\AI\Completed\project_name, then press enter.
 5.	Install necessary libraries from requirements.txt file provided.
 6.	Run pip install -r requirements.txt or conda install requirements.txt (Requirements.txt is a text file consisting of all the necessary libraries required for executing this python file. If it gives any error while installing libraries, you might need to install them individually.)
-7.	Run main.py and make sure to change the path where your executable files are located and also the model path in the code, please follow the link on how to install and set up anaconda environment to execute files.
+7.	Download Pytesseract File from here : <a href=https://codetoprosper.com/tesseract-ocr-for-windows#google_vignette> Tesseract </a>. Then, Paste The Pystesseract File as per the need in code. (cd C:\Program Files\Tesseract-OCR)
+8.	Run main.py and make sure to change the path where your executable files are located and also the model path in the code, please follow the link on how to install and set up anaconda environment to execute files.
 
 # _**Data Description**_
 The dataset was downloaded from a private data repository which might not be available now.
